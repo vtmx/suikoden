@@ -1,1 +1,0 @@
-/home/vitor/snap/retroarch/423/.config/retroarch/saves/ 

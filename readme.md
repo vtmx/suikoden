@@ -19,3 +19,4 @@
 ## Suikoden II
 [Guide]
 <br>
+[Map]

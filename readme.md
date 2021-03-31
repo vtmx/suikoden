@@ -17,8 +17,8 @@
 [Recruitment](http://www.suikosource.com/games/sod.php?pf=S1)
 
 ## Suikoden II
-[Guide]
+[Guide]()
 <br>
-[Map]
+[Map]()
 <br>
-[Recruitment]
+[Recruitment]()
